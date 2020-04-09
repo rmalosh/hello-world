@@ -2,4 +2,4 @@
 
 About Ryan
 
-I am an infectious disease epidemiologist and leukemia survivor. This github
+I am an infectious disease epidemiologist and leukemia survivor.
